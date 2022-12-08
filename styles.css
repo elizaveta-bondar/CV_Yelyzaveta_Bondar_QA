@@ -33,7 +33,7 @@ a:hover {
   padding: 5px auto;
   font-size: 13px;
   font-weight: 400;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   transition: all 200ms ease;
   box-shadow: rgba(37, 39, 89, 0.08) 4px 4px 4px 0;
 }
@@ -41,7 +41,7 @@ a:hover {
   display: flex;
   justify-content: space-evenly;
   width: 950px;
-  padding: 30px 40px 40px 60px;
+  padding: 20px 40px 40px 40px;
   margin-top: 30px;
   margin-bottom: 30px;
   background-color: rgb(239, 239, 239);
@@ -53,7 +53,7 @@ a:hover {
 }
 
 .contacts {
-  margin: 10px 10px;
+  margin: 10px 0px;
   padding: 20px;
   flex: 1;
 }
@@ -61,7 +61,7 @@ a:hover {
 .col-sm-12 {
   background-color: white;
   flex: 1;
-  margin: 10px 15px;
+  margin: 10px 0px;
   padding: 20px;
   border-radius: 10px;
 }
