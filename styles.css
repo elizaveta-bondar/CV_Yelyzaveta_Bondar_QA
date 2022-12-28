@@ -20,7 +20,7 @@ a:hover {
 }
 .btn-lang {
   display: block;
-  float: right;
+  margin-left: auto;
   text-align: center;
   width: 40px;
   padding: 4px;
